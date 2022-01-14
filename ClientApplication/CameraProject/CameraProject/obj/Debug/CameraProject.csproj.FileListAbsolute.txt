@@ -1,0 +1,138 @@
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CameraProject.exe
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Dropbox.Api.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CameraProject.exe.config
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.Modules.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Dropbox.Api.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.Modules.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.ResolveComReference.cache
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.Properties.Resources.resources
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.View.MainMenu.resources
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.View.PopupNotification.resources
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.View.PreviewVideos.resources
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.View.Waiting.resources
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.GenerateResource.Cache
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.exe
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.pdb
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CameraProject.pdb
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\obj\Debug\CameraProject.csprojResolveAssemblyReference.cache
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.Core.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.dll
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\CefSharp.Core.xml
+C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\Resources\cameraNotsupp.jpg
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Resources\cameraNotsupp.jpg
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.exe.config
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.exe
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.pdb
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.Core.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Dropbox.Api.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Modules.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.Core.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Dropbox.Api.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Modules.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.ResolveComReference.cache
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.Properties.Resources.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.MainMenu.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.PopupNotification.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.PreviewVideos.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.Waiting.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.GenerateResource.cache
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.CopyComplete
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.exe
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.pdb
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.LoginForm.resources
+C:\Users\pdimitro\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csprojAssemblyReference.cache
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.exe.config
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.exe
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CameraProject.pdb
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.Core.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Dropbox.Api.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Modules.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.WinForms.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\CefSharp.Core.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Dropbox.Api.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Modules.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.SQLite.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\IronPython.Wpf.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csprojResolveAssemblyReference.cache
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.ResolveComReference.cache
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.Properties.Resources.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.LoginForm.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.MainMenu.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.PopupNotification.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.PreviewVideos.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.Waiting.resources
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.csproj.GenerateResource.Cache
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.exe
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.pdb
+C:\Users\beroi\OneDrive\Desktop\Diplomna\Sources\CameraProject\CameraProject\CameraProject\obj\Debug\CameraProject.View.userInformationForm.resources

@@ -1,0 +1,463 @@
+[0812/132025:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132150:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132254:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132403:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132459:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132558:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/132734:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/135718:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0812/140027:FATAL:v8_initializer.cc(175)] Failed to open V8 file 'C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\natives_blob.bin' (reason: -4)
+[0812/140047:FATAL:v8_initializer.cc(175)] Failed to open V8 file 'C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\natives_blob.bin' (reason: -4)
+[0812/140052:FATAL:v8_initializer.cc(175)] Failed to open V8 file 'C:\Users\beroi\OneDrive\Documents\Visual Studio 2013\Projects\CameraProject\CameraProject\bin\Debug\natives_blob.bin' (reason: -4)
+[0812/140116:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140116:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140116:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140159:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140159:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140159:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140230:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140230:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140230:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140348:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140348:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140349:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140450:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140450:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140450:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140947:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140947:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/140947:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141044:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141044:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141044:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141216:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141216:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141216:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141256:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141256:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141256:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141257:WARNING:backend_impl.cc(1593)] Messed up entry found.
+[0812/141257:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0812/141341:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141341:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141411:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141411:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141413:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141413:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0812/141413:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0812/141413:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0812/141413:ERROR:cache_creator.cc(129)] Unable to create cache
+[0812/141416:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141422:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141547:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141547:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141619:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141619:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141639:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141639:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0812/141639:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0812/141639:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0812/141639:ERROR:cache_creator.cc(129)] Unable to create cache
+[0812/141856:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/141856:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/195841:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/195841:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/195843:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/195843:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0812/195843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0812/195843:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0812/195843:ERROR:cache_creator.cc(129)] Unable to create cache
+[0812/200313:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/200313:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/200314:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0812/200314:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0812/200314:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0812/200314:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0812/200314:ERROR:cache_creator.cc(129)] Unable to create cache
+[0813/192240:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/192240:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/192305:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/192305:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/192842:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/192843:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/193243:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/193243:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/194022:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/194022:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195633:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195633:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195853:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195854:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195917:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195917:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195957:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/195957:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/200137:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/200255:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/201330:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/201430:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/201624:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/201659:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/202202:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/202210:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/202918:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/203518:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/203807:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/204114:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/204401:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/204748:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/204750:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0813/204932:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/205146:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/205149:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0813/205246:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/205432:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0813/205434:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1106/200406:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1106/201210:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1106/201408:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1106/201535:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/172417:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/173116:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/173315:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/173832:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/174249:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/174903:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/174905:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1109/174932:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/174933:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1109/175142:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/175151:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/180457:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/181154:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/182036:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/182613:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/183115:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/183548:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/183703:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/183943:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/184410:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/184503:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185030:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185055:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185212:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185258:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185329:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/185805:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/190411:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/190453:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/191305:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/201737:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/202102:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/202447:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204240:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204436:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204713:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204713:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204717:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204717:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/204717:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/204717:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/204717:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/204719:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/intro/?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&if=1&gl=BG&hl=bg&pc=s (0)
+[1109/204719:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/intro/?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&if=1&gl=BG&hl=bg&pc=s (0)
+[1109/204830:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204830:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204832:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204832:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/204832:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/204832:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/204832:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/204834:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/intro/?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&if=1&gl=BG&hl=bg&pc=s (0)
+[1109/204835:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/intro/?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&if=1&gl=BG&hl=bg&pc=s (0)
+[1109/204938:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204938:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204941:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/204941:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/204941:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/204941:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/204941:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/204943:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/intro/?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&if=1&gl=BG&hl=bg&pc=s (0)
+[1109/204948:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://consent.google.com/done1?continue=https://www.google.com/?gws_rd%3Dssl&origin=https://www.google.com&gl=BG&pc=s (0)
+[1109/210107:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210107:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210109:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210109:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/210109:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/210109:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/210109:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/210315:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210728:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210729:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210732:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210732:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/210732:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/210732:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/210732:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/210800:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210800:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210802:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210802:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/210802:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/210802:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/210802:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/210850:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210850:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210852:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210852:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/210852:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/210852:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/210852:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/210930:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210930:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210932:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/210932:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/210932:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/210932:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/210932:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/211007:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211007:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211008:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211008:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/211008:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/211008:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/211008:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/211027:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211028:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211029:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211031:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211035:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211036:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211040:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211051:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211056:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211056:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211058:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211058:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/211058:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/211058:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/211058:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/211125:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211617:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211618:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211757:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211757:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211811:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/211811:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/211811:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/211811:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/211811:ERROR:cache_creator.cc(129)] Unable to create cache
+[1109/213134:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/213134:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/213520:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/213521:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/213529:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1109/213529:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1109/213529:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1109/213529:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1109/213529:ERROR:cache_creator.cc(129)] Unable to create cache
+[1110/173952:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1110/173953:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1110/173956:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[1110/173956:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[1110/173956:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1110/173956:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[1110/173956:ERROR:cache_creator.cc(129)] Unable to create cache
+[0108/112514:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/112515:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/113809:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/113809:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/113921:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/113922:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114035:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114036:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114152:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114152:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114214:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114214:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114340:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114341:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114558:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114558:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114732:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0108/114732:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0108/114732:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0108/114732:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0108/114732:ERROR:cache_creator.cc(129)] Unable to create cache
+[0127/090400:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0127/090401:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0127/101500:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0127/101500:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0127/101500:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0127/101500:ERROR:cache_creator.cc(129)] Unable to create cache
+[0127/110308:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0127/110308:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0127/111506:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0127/111506:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/175900:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/175900:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180052:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180052:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180122:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180123:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180313:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/180313:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/181033:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/181033:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/181115:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0131/181115:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/095741:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/095741:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/095938:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/095939:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100038:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100038:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100154:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100154:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100249:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100249:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100729:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/100730:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101019:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101019:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101204:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101205:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101234:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101234:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101247:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/101247:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102055:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102056:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102452:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102452:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102746:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/102747:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103047:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103047:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103130:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103131:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103206:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/103207:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/111054:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/111055:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/113606:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/113606:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115108:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115108:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115133:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115133:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115234:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115234:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115729:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/115729:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/120545:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/120545:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/120732:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0203/120732:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0204/173316:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0204/173316:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102805:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102805:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102837:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102837:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102902:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0225/102903:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0228/121507:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0228/121507:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0228/121558:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0228/121558:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0302/101818:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0302/101818:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/135526:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/135526:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/135959:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140000:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140500:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140500:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140510:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140510:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140624:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140625:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140738:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/140738:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/141200:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0309/141201:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180328:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180329:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180747:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180747:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180859:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/180900:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181307:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181308:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181648:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181648:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181832:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181832:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181845:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181845:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181904:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/181904:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/182616:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/182616:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/184018:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/184018:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/184136:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/184136:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+[0502/184136:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0502/184136:ERROR:cache_util.cc(134)] Unable to move cache folder Cache to old_Cache_000
+[0502/184136:ERROR:cache_creator.cc(129)] Unable to create cache
+[0502/184142:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/184143:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190517:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190518:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190721:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190721:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190809:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/190809:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191200:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191200:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191216:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191216:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191535:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191535:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191842:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/191842:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/192315:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/192315:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/192707:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/192707:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/193312:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/193313:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/193411:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/193411:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/195200:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/195200:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/195455:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/195456:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/200210:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/200210:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/200401:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0502/200401:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/135310:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/135310:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/140254:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/140254:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/150631:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/150632:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/170203:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0503/170204:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/132900:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/132901:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/132930:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/132930:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/142000:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0828/142001:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0114/123628:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0114/123630:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
