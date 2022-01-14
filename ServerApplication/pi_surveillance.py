@@ -23,14 +23,10 @@ import numpy as np
 from PIL import Image
 import io
 
-NOTIFY_EVENT = 1
-CURRENTLY_RUNNING = '2'
-
 bind_ip = '192.168.100.5'
 bind_port = 9999
 bVideoInProgress = 0
 global videoName
-bTriggerFlag = 0
 bTriggerVideoFlag = 0
 bSendPicture = 0
 global g_clientSock
@@ -39,7 +35,6 @@ global bConnectInit
 global imageToSend
 counter = 0
 prevMili = 0
-counter = 0
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((bind_ip, bind_port))
@@ -82,61 +77,71 @@ stopMotionCounter = 0
 bConnectInit = 0
 #bTriggerVideoFlag = 0
 
+#************************************************************************
+# DESCRIPTION : Function for socket connection handling
+# PARAMETERS : client_socket - client Socket
+# RETURN VALUE : none
+#************************************************************************
 def handle_client_connection(client_socket):
 	request = client_socket.recv(1024)
 	print('Received {}'.format(request))
 	client_socket.send(('ACK!').encode())
-    	
 
-
+#************************************************************************
+# DESCRIPTION : Function for sending warning event to the client
+# PARAMETERS : client_socket - client Socket
+# 			   time - the exact moment of the event
+# RETURN VALUE : none
+#************************************************************************
 def send_warning_event(client_socket, time):
 	print('Warning event fired')
 	client_socket.send('NOTIFY'.encode())
 	client_socket.send(time.encode())
-	#client_socket.close()
-	
+
+#************************************************************************
+# DESCRIPTION : Function for sending binary picture the client
+# PARAMETERS : client_socket - client Socket
+# 			   address - address of the client
+#			   image - jpg image to send
+# RETURN VALUE : none
+#************************************************************************	
 def send_picture(client_socket, address, image):
-	#print(datetime.datetime.now())
 	global g_clientSock	
 	global g_address
 	image = "./new_0.jpg"
-	#print("function send")
-	#print(datetime.datetime.now())
-	#bytesVar = cv2.imencode('.jpg', imageToSend)[1].tostring()
-    #print str
-	#bytesVar = imageToSend.imu.read()
+	bytesVar = cv2.imencode('.jpg', imageToSend)[1].tostring()
+	bytesVar = imageToSend.imu.read()
 	cv2.imwrite(image, imageToSend)
-	#myfile = open(image, 'rb')
-	#bytes = myfile.read()
-	#base64_file = base64.encodestring(bytes)
+	myfile = open(image, 'rb')
+	bytes = myfile.read()
+	base64_file = base64.encodestring(bytes)
 
-	#base64_file = base64.b64encode(rawBytes.read())
-	#size = len(base64_file)
-	#g_clientSock.sendto(str(size).encode('utf-8'),g_address)
-	#conf = g_clientSock.recv(4096)
-	##print(conf)
-	#if(b'OK' == conf):
-		#print("Send picture")
-	#	g_clientSock.send(base64_file)
-	#else:
-	#	print("Invalid picture")
+	base64_file = base64.b64encode(rawBytes.read())
+	size = len(base64_file)
+	g_clientSock.sendto(str(size).encode('utf-8'),g_address)
+	conf = g_clientSock.recv(4096)
+	g_clientSock.send(base64_file)
 
+#************************************************************************
+# DESCRIPTION : Function is invoked when new activity is evaluated 
+# PARAMETERS : None
+# RETURN VALUE : none
+#************************************************************************	
 def trigger_warning_event():
-	print("trigger video flag")
 	bTriggerVideoFlag =1
 
+#************************************************************************
+# DESCRIPTION : Function for starting the server, it accepts 
+#				new connections and send events
+# PARAMETERS : bTriggerVideoFlag 
+#			   bSendPicture
+# RETURN VALUE : none
+#************************************************************************	
 def run_server(bTriggerVideoFlag,bSendPicture):
 	while True:
 		global bConnectInit
 		global g_clientSock	
 		global g_address
-		
-		#print("Send notif:")
-		#print(bTriggerVideoFlag)
-		#print("Send picture:")
-		#print(bSendPicture)
-		#if(0 != bSendPicture):
-			#print("send picture")
 		client_sock, address = server.accept()
 		if( 0 == bConnectInit ):
 			
@@ -153,15 +158,17 @@ def run_server(bTriggerVideoFlag,bSendPicture):
 						args=(client_sock,) )
 				bTriggerVideoFlag =0
 				client_handler2.start()
-
-		
-
-
+				
 # capture frames from the camera
 for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True):
-	
-	 #thread.join()
-	#bTriggerFlag = 1
+	useSocket = conf["sockets_use"]
+	if( 0 != useSocket ):
+		thread.join()
+		bTriggerFlag = 1
+		thread = Thread(target = run_server,
+		args=(bTriggerVideoFlag,bSendPicture))
+		thread.start()
+
 	# grab the raw NumPy array representing the image and initialize
 	# the timestamp and occupied/unoccupied text
 	frame = f.array
@@ -173,14 +180,8 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
 	frame = imutils.resize(frame, width=500)	
 	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 	gray = cv2.GaussianBlur(gray, (21, 21), 0)
-
-
-
-	#thread = Thread(target = run_server,
-	#		args=(bTriggerVideoFlag,bSendPicture))
-	#thread.start()
 	
-    # if the average frame is None, initialize it
+	# if the average frame is None, initialize it
 	if avg is None:
 		print("[INFO] starting background model...")
 		avg = gray.copy().astype("float")
@@ -243,11 +244,12 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
 					if conf["use_video"]:
 						if( 0 == bVideoInProgress ):
 							print("startRecordingVideo")
-							#trigger_warning_event()
-							#client_handler2 = threading.Thread(
-        					#		target =send_warning_event,
-        					#		args=(g_clientSock,ts,) )
-							#client_handler2.start()
+							if( 0 != useSocket ):
+								trigger_warning_event()
+								#client_handler2 = threading.Thread(
+								#		target =send_warning_event,
+								#		args=(g_clientSock,ts,) )
+								#client_handler2.start()
 							vid = TempVideo()
 							bVideoInProgress = 1
 							videoName = vid
@@ -267,8 +269,8 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
 					
 					#trigger_warning_event()
 					client_handler2 = threading.Thread(
-        							target =send_warning_event,
-        							args=(g_clientSock,ts,) )
+									target =send_warning_event,
+									args=(g_clientSock,ts,) )
 					client_handler2.start()
 					if conf["use_video"]:
 						if( 0 == bVideoInProgress ):
@@ -304,7 +306,6 @@ for f in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True
 					   base_path=conf["dropbox_base_path"], timestamp=name)
 					client.files_upload(open(videoName.path, "rb").read(), path)
 	if( 0 != bVideoInProgress ):
-		#print("FrameAdded")
 		writer.write(img1)
 		#writer.write(np.random.randint(0, 255, (480,640,3)).astype('uint8'))
 			
